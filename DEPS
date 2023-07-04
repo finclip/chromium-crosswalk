@@ -1379,7 +1379,7 @@ deps = {
     Var('chromium_git') + '/external/webrtc/trunk/webrtc.git' + '@' + 'a048ce1c9fcc0db50e10a33c463a71d19d29e275',
 
   'src/third_party/openmax_dl':
-    Var('chromium_git') + '/external/webrtc/deps/third_party/openmax.git' + '@' +  Var('openmax_dl_revision'),
+    Var('chromium_git') + '/external/webrtc/deps/third_party/openmax.git' + '@' + '7acede9c039ea5d14cf326f44aad1245b9e674a7',
 
 
   'src/third_party/xdg-utils': {
